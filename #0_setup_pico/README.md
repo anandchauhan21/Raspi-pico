@@ -14,4 +14,19 @@ It will mount as a Mass Storage Device called RPI-RP2 so you can drag and drop t
 
 ## Step 4 ##
 Downlod Thonny IDE from [Here](https://thonny.org/).
-Start and it go to Run select Interpreter, From therte select MicroPython(Raspberry pi pico) and hit ok.  
+Start it and go to Run.
+![Thonny_Run](https://user-images.githubusercontent.com/47294135/108690320-3c89d000-7520-11eb-9f1c-c6c9a686a206.png)
+
+select Interpreter, From there select MicroPython(Raspberry pi pico)and hit ok.  
+![Interpreter](https://user-images.githubusercontent.com/47294135/108690725-aefab000-7520-11eb-8f1d-877808ecf568.png)
+
+## Step 5 ##
+Write your first line of code and hit run button 
+>`print("HELLO PICO")`
+>
+![raspberry_pi_pico](https://user-images.githubusercontent.com/47294135/108693961-752ba880-7524-11eb-9ffc-c54256a1c93c.png)
+
+you can see output on shell.
+
+----
+'''Congratulation for your first code Run'''
