@@ -1,6 +1,7 @@
 import machine
 import utime
 
+# Define LED pins.
 red_led = machine.Pin(15,machine.Pin.OUT)
 yellow_led = machine.Pin(14,machine.Pin.OUT)
 green_led = machine.Pin(13,machine.Pin.OUT)
